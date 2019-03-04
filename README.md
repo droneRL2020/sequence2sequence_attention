@@ -7,6 +7,3 @@ Developed attention from scratch without teacher enforcing.
 
 #### 2. Sequence2Sequence_teacher_enforcing.ipynb
 Developed attention using teacher enforcing.
-
-#### 3. Sequence2Sequence_Inference.ipynb
-Inference
